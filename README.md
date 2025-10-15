@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Guru Karthick, Welcome to my GitHub Profile!
+# Hi there 👋, I'm Guru Karthick!
 
 ## About Me
 Lead Software Engineer with 7+ years of expertise in building high-performance, resilient, and scalable enterprise-grade applications using Java, Spring Boot, and Microservices. Proven experience in SDLC, API design, distributed systems, and secure payment integrations. Skilled in Python, Node.js, and cloud-native DevOps (Azure + Kubernetes).
