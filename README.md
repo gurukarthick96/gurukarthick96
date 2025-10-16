@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Guru Karthick!
 
 ## About Me
-Lead Software Engineer with 7+ years of expertise in building high-performance, resilient, and scalable enterprise-grade applications using Java, Spring Boot, and Microservices. Proven experience in SDLC, API design, distributed systems, and secure payment integrations. Skilled in Python, Node.js, and cloud-native DevOps (Azure + Kubernetes).
+Lead Software Engineer with 7+ years of expertise in building high-performance, resilient and scalable enterprise-grade Microservices using Java, Spring Boot, and MongoDB. Proven experience in SDLC, API architecture, distributed systems design, and secure payment integrations. Skilled in Python, Node.js, and cloud-native DevOps (Azure + Kubernetes).
 
 ## Technical Skills
 
@@ -9,6 +9,7 @@ Lead Software Engineer with 7+ years of expertise in building high-performance, 
 - Java (Spring, Spring Boot, Hibernate)  
 - Python (FastAPI)  
 - JavaScript (Node.js, React.js)  
+- SQL  
 
 ### Databases & Messaging
 - MongoDB, MySQL, Redis  
