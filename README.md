@@ -4,40 +4,10 @@
 Lead Software Engineer with 7+ years of expertise in building high-performance, resilient and scalable enterprise-grade Microservices using Java, Spring Boot, and MongoDB. Proven experience in SDLC, API architecture, distributed systems design, and secure payment integrations. Skilled in Python, Node.js, and cloud-native DevOps (Azure + Kubernetes).
 
 ## Technical Skills
+- Java (Spring, Spring Boot, Hibernate), Python (FastAPI), JavaScript (Node.js, React.js), SQL
+- MongoDB, PostgreSQL, MySQL, Redis, Apache Kafka, RabbitMQ, Qdrant
 
-### Core Programming
-- Java (Spring, Spring Boot, Hibernate)  
-- Python (FastAPI)  
-- JavaScript (Node.js, React.js)  
-- SQL  
-
-### Databases & Messaging
-- MongoDB, MySQL, Redis  
-- Apache Kafka, RabbitMQ  
-- Qdrant (Vector DB)  
-
-### Cloud & DevOps
-- Kubernetes, Docker  
-- Azure (AKS, APIM, Web Apps)  
-- Dynatrace, Elastic Stack, Jenkins, Rancher, vRA  
-
-### Dev & Build Tools
-- IntelliJ IDEA, VS Code, PyCharm  
-- Postman, Maven  
-- Git (GitHub, Azure Repos), Linux  
-- JMeter, SonarQube, Arnica  
-
-### AI & Emerging Tech
-- Generative AI (Google, OpenAI)  
-- LLMs, Prompt Engineering, Vector Databases  
-- Ollama, Rasa  
-- Blockchain  
-
-### Design & Architecture
-- System Design, Distributed Systems, Microservices  
-- Event-Driven Architecture, REST APIs, Design Patterns  
-
-### Engineering Practices
-- CI/CD, Code Reviews, Unit Testing  
-- Containerization, Source Control  
-- Observability, Performance Optimization
+&nbsp;![](https://komarev.com/ghpvc/?username=gurukarthick96&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurukarthick96&show_icons=true&rank_icon=github&locale=en" alt="gurukarthick96" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurukarthick96&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
