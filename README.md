@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Guru Karthick!
 
 ### About Me
-Lead Software Engineer with 7+ years of expertise in building high-performance, resilient and scalable enterprise-grade Microservices using Java, Spring Boot, and MongoDB. Proven experience in SDLC, API architecture, distributed systems design, and secure payment integrations. Skilled in Python, Node.js, and cloud-native DevOps (Azure + Kubernetes).
+Senior Software Engineer at Walmart with over 8 years of experience designing and building enterprise software. Today, I build production-grade AI applications that help 20,000+ engineers work smarter, and accelerate software delivery at Walmart, one of the world's largest retail technology organizations.
 
 ### Technical Skills
 - Java (Spring, Spring Boot, Hibernate), Python (FastAPI), JavaScript (Node.js, React.js), SQL
